@@ -3,4 +3,4 @@ def get_initials(fullname):
     # TODO your code here
 
 
-print("Hello World!")
+print("Hello World")
